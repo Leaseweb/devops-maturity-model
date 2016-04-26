@@ -14,6 +14,18 @@ Basic Level
 Intermediate Level
 -------------
 
+|Happiness               |Failing Fast          |Transparancy          |Shared Responsibility |Focus                 |Self Organization     |
+|------------------------|----------------------|----------------------|----------------------|----------------------|----------------------|
+|We measure & share team proudness every sprint|We have a blameless post mortem for each major incident or failure|We proactively share information with the whole department|Everyone in our team is willing to share & learn|We focus on value chain goal|We monitor our work process & performance|
+| |We publish blameless post mortem result and make it available to every department| |All tasks in our team can be done by more than one person.| |We provide reporting of our performance/progress|
+| | | | | |Individual performance is evaluated on team KPIs and 360 degree feedback|
+
 
 Target Level
 -------------
+
+|Happiness               |Failing Fast          |Transparancy          |Shared Responsibility |Focus                 |Self Organization     |
+|------------------------|----------------------|----------------------|----------------------|----------------------|----------------------|
+|We are proud of our team, our department and our company|We celebrate & share failures with the entire company|We proactively share information with the whole company|We are acting proactively to learn from each other, across teams|We focus on LeaseWebs goal|We check our performance and find ways to improve on it|
+| | | |Everyone in the team can do the basics tasks, no matter which specialism it concerns| | |
+
