@@ -15,8 +15,8 @@ Intermediate Level
 
 |Feedback loops          |Business value        |Value steering        |Roadmap planning      |Validate value        |Stakeholder Happiness |
 |------------------------|----------------------|----------------------|----------------------|----------------------|----------------------|
-|Our Stakeholders review the changes in the product and provide us feedback on that|Our Product Owner and Stakeholders jointly create a business case for any new epic|We collect feedback from Customers and prospects when defining new features.|We produces a progress report of the roadmap execution each month|We analyze the business cases to verify if they have been realized|Our Stakeholders feel they have an important role in the Backlog prioritization. We measure this on a monthly basis.|
-| |We measure time-to-market| |Our Stakeholders are updated on roadmap progress each month| | |
+|Our Stakeholders review the changes in the product and provide us feedback on that|Our Product Owner and Stakeholders jointly create a business case for any new epic|We collect feedback from Customers and prospects when defining new features.| |We analyze the business cases to verify if they have been realized|Our Stakeholders feel they have an important role in the Backlog prioritization. We measure this on a monthly basis.|
+| | | |Our Stakeholders are updated on roadmap progress each month| | |
 
 
 Target Level
