@@ -16,9 +16,9 @@ Intermediate Level
 
 |Happiness               |Failing Fast          |Transparancy          |Shared Responsibility |Focus                 |Self Organization     |
 |------------------------|----------------------|----------------------|----------------------|----------------------|----------------------|
-|We measure & share team proudness every sprint|We have a blameless post mortem for each major incident or failure|We proactively share information with the whole department|Everyone in our team is willing to share & learn|We focus on value chain goal|We monitor our work process & performance|
+|We measure & share team proudness every sprint|We have a blameless post mortem for each major incident or failure|We proactively share information with the whole department|Everyone in our team is willing to share & learn|We focus on the complete value chain goal (value creation incl. all departments etc.) |We monitor our work process & performance|
 | |We publish blameless post mortem result and make it available to every department| |All tasks in our team can be done by more than one person.| |We provide reporting of our performance/progress|
-| | | | | |Individual performance is evaluated on team KPIs and 360 degree feedback|
+| | | | | |Individual's performance is evaluated on team KPIs and feedback from peers|
 
 
 Target Level
